@@ -20,8 +20,3 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-<p align="center">
-  <a href="https://www.paypal.com/paypalme/TU_USUARIO_PAYPAL">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal" />
-  </a>
-</p>
