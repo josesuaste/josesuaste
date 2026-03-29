@@ -18,3 +18,10 @@
 
 
 ![iTerm2](https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white)
+
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/TU_USUARIO_PAYPAL">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal" />
+  </a>
+</p>
