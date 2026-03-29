@@ -8,7 +8,7 @@ I discover about the Apple ecosystem. In my spare time I automate
 stuff on macOS with Python and Bash, because strategic laziness
 is just productivity in disguise.
 
-<h2 align="center"></h2>
+<h2></h2>
 
 
 :gun:<h3> Technologies</h3>
