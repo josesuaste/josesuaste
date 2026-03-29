@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Jose!;I'm+a+Technologic+Entusiast...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud++)](https://git.io/typing-svg)
+
 <h4> Here's some fun facts about me: </h4>
 
 Hey, I'm Jose Suaste — a Mac enthusiast who learns by doing.
@@ -7,19 +9,7 @@ I discover about the Apple ecosystem. In my spare time I automate
 stuff on macOS with Python and Bash, because strategic laziness
 is just productivity in disguise 
 
-
-
-
-
-
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Hey+Jose!;I'm+a+Technologic+Entusiast...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud++)](https://git.io/typing-svg)
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Technologies</b>
-
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -35,9 +25,6 @@ is just productivity in disguise
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
-
-
 
 
 
