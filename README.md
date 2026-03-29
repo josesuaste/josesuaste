@@ -3,7 +3,7 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-Hey, I'm Jose Suaste — a Mac enthusiast who learns by doing.
+Hey, I'm Jose Suaste a Mac enthusiast who learns by doing.
 I run a YouTube channel where I share apps, tips and everything
 I discover about the Apple ecosystem. In my spare time I automate
 stuff on macOS with Python and Bash, because strategic laziness
