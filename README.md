@@ -3,11 +3,11 @@
 
 <h4> Here's some fun facts about me: </h4>
 
-:gun: Hey, I'm Jose Suaste a Mac enthusiast who learns by doing.
-             I run a YouTube channel where I share apps, tips and everything
-             I discover about the Apple ecosystem. In my spare time I automate
-             stuff on macOS with Python and Bash, because strategic laziness
-             is just productivity in disguise 
+Hey, I'm Jose Suaste — a Mac enthusiast who learns by doing.
+I run a YouTube channel where I share apps, tips and everything
+I discover about the Apple ecosystem. In my spare time I automate
+stuff on macOS with Python and Bash, because strategic laziness
+is just productivity in disguise.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Technologies</b>
 
