@@ -1,10 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-
-<h3 align="center">
-  Hi, I'm Jose Suaste
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Jose!;I'm+a+Technologi+Entusiast...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud++)](https://git.io/typing-svg)
 
 <h3> Here's some fun facts about me: </h3>
