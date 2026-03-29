@@ -37,6 +37,9 @@ is just productivity in disguise.
 
 
 
+<!--
+**Jose suaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <a href="https://buymeacoffee.com/TU_USUARIO">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
