@@ -1,7 +1,7 @@
 
 <h4> Here's some fun facts about me: </h4>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Jose!;I'm+a+Technologi+Entusiast...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Jose!;I'm+a+Technologic+Entusiast...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud++)](https://git.io/typing-svg)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Technologies</b>
 
@@ -21,3 +21,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
+<a href="https://buymeacoffee.com/TU_USUARIO">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+</a>
