@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Jose!;I'm+a+Technologic+Entusiast...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Hello)](https://git.io/typing-svg)
 
 <h3> Here's some fun facts about me: </h3>
 
