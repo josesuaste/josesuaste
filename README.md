@@ -26,7 +26,7 @@ is just productivity in disguise.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-
+</a>
 
 <a href="https://buymeacoffee.com/TU_USUARIO">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
