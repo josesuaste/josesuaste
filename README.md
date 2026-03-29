@@ -24,3 +24,7 @@
 <a href="https://buymeacoffee.com/TU_USUARIO">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
 </a>
+
+<a href="https://www.paypal.com/paypalme/TU_USUARIO">
+  <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" height="50" />
+</a>
