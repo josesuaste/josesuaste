@@ -28,15 +28,11 @@ is just productivity in disguise.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-<h2 align="center"></a></h2>
-
-
+<h2></h2>
 <a href="https://buymeacoffee.com/TU_USUARIO">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
 </a>
-
-
-<h2 align="center"></a></h2>
+<h2></h2>
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
