@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+Hello)](https://git.io/typing-svg)
 <h2> Here's some fun facts about me: </h2>
 
-I'm Jose Suaste a Mac enthusiast who learns by doing.
+- :gun:I'm Jose Suaste a Mac enthusiast who learns by doing.
 I run a YouTube channel where I share apps, tips and everything
 I discover about the Apple ecosystem. In my spare time I automate
 stuff on macOS with Python and Bash, because strategic laziness
@@ -11,7 +11,7 @@ is just productivity in disguise.
 <h2></h2>
 
 
-:gun:<h3> Technologies</h3>
+<h3> Technologies</h3>
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
