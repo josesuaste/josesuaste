@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Jose!;I'm+a+Technologi+Entusiast...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud++)](https://git.io/typing-svg)
 
 <h4> Here's some fun facts about me: </h4>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Jose!;I'm+a+Technologi+Entusiast...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud++)](https://git.io/typing-svg)
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Technologies</b>
-<br>
+
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
