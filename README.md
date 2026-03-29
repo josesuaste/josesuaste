@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+Hello)](https://git.io/typing-svg)
 <h2> Here's some fun facts about me: </h2>
 
-- :gun: - I'm Jose Suaste a Mac enthusiast who learns by doing.
+- :gun:  I'm Jose Suaste a Mac enthusiast who learns by doing.
 I run a YouTube channel where I share apps, tips and everything
 I discover about the Apple ecosystem. In my spare time I automate
 stuff on macOS with Python and Bash, because strategic laziness
