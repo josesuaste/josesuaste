@@ -1,6 +1,6 @@
 
 
-<h3> Here's some fun facts about me: </h3>
+<h2> Here's some fun facts about me: </h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+Hello)](https://git.io/typing-svg)
 
