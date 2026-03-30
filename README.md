@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="./img/banner_01.png" width="800" />
+</p>
+
+
+
+
+
+
+
+
 
 <h2> Here's some fun facts about me: </h2>
 
