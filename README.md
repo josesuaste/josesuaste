@@ -11,7 +11,6 @@ is just productivity in disguise.
 
 <h2></h2>
 
-
 <h3>Technologies</h3>
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
