@@ -26,6 +26,9 @@ is just productivity in disguise.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
+
+<a class="button button-paypal" href="#" target="_blank" rel="noopener" role="button"><img class="icon" aria-hidden="true" src="images/icons/paypal.svg" alt="PayPal Logo">PayPal</a>
+
 <h2></h2>
 <a href="https://buymeacoffee.com/TU_USUARIO">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
