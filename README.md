@@ -28,7 +28,7 @@ is just productivity in disguise.
 
 
 <div align="center">
-  <img src="./img/tu-imagen.png" alt="Logo" width="300">
+  <img src="./img/procreate.png" alt="Logo" width="300">
 </div>
 
 <h2></h2>
