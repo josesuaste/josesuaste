@@ -27,6 +27,10 @@ is just productivity in disguise.
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 
+<div align="center">
+  <img src="./img/tu-imagen.png" alt="Logo" width="300">
+</div>
+
 <h2></h2>
 <a href="https://buymeacoffee.com/TU_USUARIO">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
