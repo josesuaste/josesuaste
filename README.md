@@ -25,14 +25,15 @@ is just productivity in disguise.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+  
+<div>
   <img src="./img/tu-imagen.png" alt="Logo" width="150">
+</div>
 
 <h2></h2>
 <a href="https://buymeacoffee.com/TU_USUARIO">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
 </a>
 <h2></h2>
-
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
