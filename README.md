@@ -25,11 +25,7 @@ is just productivity in disguise.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
-
-<div align="center">
-  <img src="./img/procreate.png" alt="Logo" width="300">
-</div>
+  <img src="./img/tu-imagen.png" alt="Logo" width="150">
 
 <h2></h2>
 <a href="https://buymeacoffee.com/TU_USUARIO">
