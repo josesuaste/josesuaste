@@ -23,3 +23,4 @@
 
 [![LittleLink](https://img.shields.io/badge/🔗%20Links-josesuaste.github.io-black?style=for-the-badge)](https://josesuaste.github.io)
 
+[![LittleLink](https://img.shields.io/badge/Links-josesuaste.github.io-a855f7?style=for-the-badge)](https://josesuaste.github.io)
