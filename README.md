@@ -1,5 +1,5 @@
 
-<h2> Here's some fun facts about me: </h2>
+## Here's some fun facts about me:
 
 - A Mac enthusiast who learns by doing.
 I run a YouTube channel where I share apps, tips and everything
@@ -7,9 +7,9 @@ I discover about the Apple ecosystem. In my spare time I automate
 stuff on macOS with Python and Bash, because strategic laziness
 is just productivity in disguise.
 
-<h2></h2>
+<hr>
 
-<h2>Technologies</h>
+## Technologies
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -25,10 +25,10 @@ is just productivity in disguise.
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
   
 <div>
-  <img src="./img/procreate.jpg" alt="Logo" width="100">
+  <img src="./img/procreate.jpg" alt="Logo" width="300">
 </div>
 
-<h2>
+<hr>
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&fontFamily=&showIcons=false&preferLogin=true">
     <img  alt="josesuaste's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/josesuaste?cardType=github&fontFamily=&showIcons=false&preferLogin=true" />
