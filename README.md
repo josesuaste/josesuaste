@@ -9,7 +9,7 @@ is just productivity in disguise.
 
 <h2></h2>
 
-<h3>Technologies</h3>
+<h2>Technologies</h2>
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -28,10 +28,6 @@ is just productivity in disguise.
   <img src="./img/procreate.jpg" alt="Logo" width="100">
 </div>
 
-<h2></h2>
-<a href="https://buymeacoffee.com/TU_USUARIO">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
-</a>
-<h2></h2>
-
-------
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&fontFamily=&showIcons=false&preferLogin=true">
+    <img  alt="josesuaste's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/josesuaste?cardType=github&fontFamily=&showIcons=false&preferLogin=true" />
+  </a>
