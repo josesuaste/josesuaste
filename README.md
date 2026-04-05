@@ -28,6 +28,7 @@ is just productivity in disguise.
   <img src="./img/procreate.jpg" alt="Logo" width="100">
 </div>
 
+<h2></h2>
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&fontFamily=&showIcons=false&preferLogin=true">
     <img  alt="josesuaste's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/josesuaste?cardType=github&fontFamily=&showIcons=false&preferLogin=true" />
