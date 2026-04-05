@@ -1,15 +1,5 @@
 &nbsp;
 
-## Here's some fun facts about me:
-
-- A Mac enthusiast who learns by doing.
-I run a YouTube channel where I share apps, tips and everything
-I discover about the Apple ecosystem. In my spare time I automate
-stuff on macOS with Python and Bash, because strategic laziness
-is just productivity in disguise.
-
-&nbsp;
-
 ## Technologies
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
