@@ -1,7 +1,7 @@
 
 <h2> Here's some fun facts about me: </h2>
 
-- :gun: A Mac enthusiast who learns by doing.
+- A Mac enthusiast who learns by doing.
 I run a YouTube channel where I share apps, tips and everything
 I discover about the Apple ecosystem. In my spare time I automate
 stuff on macOS with Python and Bash, because strategic laziness
@@ -27,7 +27,7 @@ is just productivity in disguise.
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
   
 <div>
-  <img src="./img/procreate.png" alt="Logo" width="100">
+  <img src="./img/procreate.jpg" alt="Logo" width="100">
 </div>
 
 <h2></h2>
