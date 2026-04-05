@@ -25,7 +25,7 @@ is just productivity in disguise.
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
   
 <div>
-  <img src="./img/procreate.jpg" alt="Logo" width="300">
+  <img src="./img/procreate.jpg" alt="Logo" width="150">
 </div>
 
 <hr>
