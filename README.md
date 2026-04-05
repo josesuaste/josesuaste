@@ -7,7 +7,7 @@ I discover about the Apple ecosystem. In my spare time I automate
 stuff on macOS with Python and Bash, because strategic laziness
 is just productivity in disguise.
 
-<hr>
+&nbsp;
 
 ## Technologies
 
@@ -28,7 +28,7 @@ is just productivity in disguise.
   <img src="./img/procreate.jpg" alt="Logo" width="150">
 </div>
 
-<hr>
+---
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&fontFamily=&showIcons=false&preferLogin=true">
     <img  alt="josesuaste's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/josesuaste?cardType=github&fontFamily=&showIcons=false&preferLogin=true" />
