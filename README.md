@@ -21,6 +21,6 @@
 
 &nbsp;
 
-[![LittleLink](https://img.shields.io/badge/:octocat:%20Links-josesuaste.github.io-white?style=for-the-badge)](https://josesuaste.github.io)
+[![LittleLink](https://img.shields.io/badge/Links-josesuaste.github.io-0078d7?style=for-the-badge&logo=github&logoColor=white)](https://josesuaste.github.io)
 
-[![LittleLink](https://img.shields.io/badge/Links-josesuaste.github.io-a855f7?style=for-the-badge)](https://josesuaste.github.io)
+[![LittleLink](https://img.shields.io/badge/Links-josesuaste.github.io-4899F7?style=for-the-badge&logo=github&logoColor=white)](https://josesuaste.github.io)
